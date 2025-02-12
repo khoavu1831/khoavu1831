@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Doan Phong Luu</h1>
+<h1 align="center">Hi 👋, I'm Vũ Đăng Khoa</h1>
 <h3 align="center">a passionate software engineering student in Vietnam</h3>
 
 - 🔭 I’m currently working on [Book Store Manager Software](https://github.com/DBPCod/CNPM_QLSach)
